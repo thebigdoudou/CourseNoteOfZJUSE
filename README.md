@@ -66,6 +66,7 @@ Issue、PR、纠错、资料、攻略，完全欢迎！
 + https://github.com/haochengxia/ZJU-CS-3_1
 + https://github.com/PumpkinDemo/ZJU-courses
 + https://github.com/LBruyne/ZJU-SE-CourseMaterial
++ https://github.com/Zhang-Each/CourseNoteOfZJUSE
 
 
 
