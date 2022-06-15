@@ -58,7 +58,7 @@ Issue、PR、纠错、资料、攻略，完全欢迎！
 
 如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](3180103501@zju.edu.cn) 。我们将会从仓库中彻底清除这些文件。
 
-### 一些其他的个人仓库
+### 一些其他学长(姐)的个人仓库
 
 + https://github.com/yangyueren/course_materials_of_cs
 + https://github.com/YingChengJun/CourseMaterialOfSE
@@ -66,6 +66,7 @@ Issue、PR、纠错、资料、攻略，完全欢迎！
 + https://github.com/haochengxia/ZJU-CS-3_1
 + https://github.com/PumpkinDemo/ZJU-courses
 + https://github.com/LBruyne/ZJU-SE-CourseMaterial
++ https://github.com/Zhang-Each/CourseNoteOfZJUSE
 
 
 
